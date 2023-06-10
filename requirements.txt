@@ -1,5 +1,4 @@
 jsonify
-joblib
 flask
 pandas
 gunicorn
