@@ -1,6 +1,8 @@
 jsonify
+joblib
 flask
+pandas
+gunicorn
 numpy
 pickle5
-gunicorn
-pickle5
+scikit-learn
