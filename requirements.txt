@@ -1,6 +1,6 @@
-pickle
 jsonify
 flask
 numpy
 pickle5
 gunicorn
+pickle5
